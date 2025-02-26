@@ -4,7 +4,7 @@ Welcome to **VMHeaven Free Proxy List**, a repository dedicated to providing con
 
 ## 🚀 Why Choose Fresh Proxy List?
 
-- **Frequent Updates**: Stay ahead with a proxy list updated every 20 minutes.
+- **Frequent Updates**: Stay ahead with a proxy list updated every few hours.
 - **Reliable Sources**: Only verified and functional proxies.
 - **Verified Sources:** We exclude AWS & Amazon and other proxy honeypots.
 - **Community-Driven**: Star 🌟 this repo and join the growing community supporting open-access proxy resources.
