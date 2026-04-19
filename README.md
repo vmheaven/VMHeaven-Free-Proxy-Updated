@@ -1,6 +1,6 @@
-# VMHeaven Free Proxy Lists
+# VMHeaven.io Free Proxy Lists
 
-Welcome to **VMHeaven Free Proxy List**, a repository dedicated to providing continuously updated and tested lists of proxy servers.
+Welcome to **VMHeaven.io Free Proxy List**, a repository dedicated to providing continuously updated and tested lists of proxy servers.
 
 ## 🚀 Why Choose Fresh Proxy List?
 
